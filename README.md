@@ -1,2 +1,3 @@
 # hello-world
-Learning how-to
+
+Ok, I've created my account at github and now will try to learn something new. :Ь
